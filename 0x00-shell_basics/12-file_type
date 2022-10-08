@@ -1,4 +1,3 @@
 #!/bin/bash
 file iamafile
 mv iamafile /tmp
-
